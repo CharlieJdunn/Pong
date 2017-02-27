@@ -12,3 +12,9 @@ To build this you will need a web browser. When the file is downloaded, unzip th
 
 ##Screen shots
 
+#Start Screen
+![startscreen](https://cloud.githubusercontent.com/assets/15122873/23354874/0622a36a-fccb-11e6-8c5c-9317b16e33bb.png)
+
+#You Win
+
+#Game Over
